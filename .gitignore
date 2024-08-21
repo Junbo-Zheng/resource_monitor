@@ -1,0 +1,9 @@
+build
+
+.vscode
+
+*.o
+
+*.bin
+
+*.log
